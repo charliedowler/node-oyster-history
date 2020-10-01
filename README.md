@@ -1,4 +1,4 @@
-# oyster-history
+# Oyster-History
 
 > Scrape your oyster card journey history
 
